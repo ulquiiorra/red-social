@@ -5,12 +5,12 @@ const STORAGE_KEY = "cavynet-posts-v2";
 const w3img = (name) => `https://www.w3schools.com/w3images/${name}`;
 
 const currentUser = {
-  name: "Juan Pablo Castillo",
-  handle: "@juanpablocastillo",
+  name: "Johan Sebastian Sepulveda Villegas",
+  handle: "@sebastianSepulveda",
   avatar: w3img("avatar3.png"),
   job: "Designer, UI",
-  location: "London, UK",
-  birthday: "April 1, 1988",
+  location: "Colombia, UK",
+  birthday: "November 7, 1994",
 };
 
 const initialPosts = [
